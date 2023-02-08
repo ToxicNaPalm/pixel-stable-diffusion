@@ -17,7 +17,7 @@ from diffusers.pipelines.stable_diffusion.safety_checker import (
 )
 
 
-MODEL_ID = "stabilityai/stable-diffusion-2-1"
+MODEL_ID = "PublicPrompts/All-In-One-Pixel-Model"
 MODEL_CACHE = "diffusers-cache"
 SAFETY_MODEL_ID = "CompVis/stable-diffusion-safety-checker"
 
